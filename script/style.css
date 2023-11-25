@@ -9,7 +9,7 @@
 
 body {
     font-family: 'Metropolis-Bold';
-    background-color: #F6FEAA;
+    background-color: #BEE9E8;
     text-align: center;
     color: #333;
 }
@@ -46,14 +46,14 @@ button {
     color: #DADADA;
 }
 #background {
-    background-color: #dfe69e;
+    background-color: #DEFFFE;
     border-radius: 10px;
     margin: 0 auto;
     height: 40px;
     width: 35em;
 }
 #progress {
-    background-color: #D6C26A;
+    background-color: #5FA8D3;
     border-radius: 10px;
     height: 40px;
     width: 0em;
