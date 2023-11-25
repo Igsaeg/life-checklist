@@ -60,7 +60,7 @@ button {
 }
 p {
     font-size: 25px;
-    margin: 10px;
+    margin: 15px;
 }
 p:nth-child(1) { margin-top: 5em; }
 p:nth-child(3) { margin: 4em 0em 1em 0em; }
@@ -97,13 +97,13 @@ img { width: 350px; }
     .items { width: 25em; }
 }
 @media screen and (max-width: 590px) {
-    p { font-size: 22px; }
+    p { font-size: 24px; }
     #background { width: 25em; }
     #list {width: 25em;}
     .items { width: 22em; }
 }
 @media screen and (max-width: 490px) {
-    p { font-size: 19px; }
+    p { font-size: 23px; }
     #background { width: 20em; }
     #list {width: 20em; }
     img { width: 300px; }
@@ -112,7 +112,6 @@ img { width: 350px; }
     .checklist { font-size: 20px; }
 }
 @media screen and (max-width: 400px) {
-    p { font-size: 18px; }
     #background { width: 16em; }
     #list {
         border: 1.7em solid burlywood;
