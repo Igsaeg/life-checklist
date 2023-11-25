@@ -5,6 +5,7 @@ const lifeChecklist = [
     'Learn to write',
     'Start school',
     'Ride a bike',
+    'Get a christmas present',
     'Read a book',
     'Learn a sport',
     'Play an instrument',
