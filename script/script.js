@@ -34,7 +34,6 @@ function updateText() {
     else if (screen.width < 355) { i = 5; }
     document.getElementById("progress").style.width = (findAge(date) > 100) ? width[i] : findAge(date) / 100 * width[i] + "em";
     document.getElementById('main').querySelector('p:nth-child(3)').innerHTML = `In those ${findAge(date)} years, check what you have done:`;
-    console.log(width[i])
 }
 window.addEventListener('resize', updateText);
 function save(i) {
